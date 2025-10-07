@@ -1,0 +1,23 @@
+{
+  "name": "stack-installer-cli",
+  "version": "1.0.0",
+  "description": "CLI to setup multi-stack project",
+  "bin": {
+    "stack-installer": "./cli.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "fs-extra": "^11.3.2",
+    "inquirer": "^9.3.8"
+  },
+  "keywords": [
+    "cli",
+    "installer",
+    "stack",
+    "react",
+    "node"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
