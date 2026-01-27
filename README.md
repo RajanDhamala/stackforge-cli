@@ -1,21 +1,21 @@
-# StackForge CLI 🚀
+# StackForge CLI 
 
 > **The fastest way to bootstrap modern web development projects with pre-configured setups**
 
 StackForge CLI is a powerful command-line tool that instantly scaffolds production-ready projects with your favorite tech stacks. Skip the tedious setup and jump straight into coding with pre-configured boilerplate code, routing, styling, and essential packages.
 
-## ✨ Features
+##  Features
 
-- 🎯 **4 Popular Stack Options**: React (JS/TS) and Express (Prisma/Mongoose)
-- ⚡ **Lightning Fast Setup**: Get a complete project running in under 2 minutes
-- 🎨 **Pre-configured Styling**: Tailwind CSS ready to go
-- 🛠️ **Built-in Routing**: React Router and Express routes already set up
-- 🔐 **Authentication Boilerplate**: JWT auth patterns included
-- 📦 **Advanced Package Options**: Optional extras like WebSocket, Redis, Socket.IO
-- 🎭 **Beautiful CLI Experience**: Interactive prompts with colorful feedback
-- 🔧 **Smart Configuration**: Auto-generates .env files and project structure
+-  **4 Popular Stack Options**: React (JS/TS) and Express (Prisma/Mongoose)
+- **Lightning Fast Setup**: Get a complete project running in under 2 minutes
+-  **Pre-configured Styling**: Tailwind CSS ready to go
+-  **Built-in Routing**: React Router and Express routes already set up
+-  **Authentication Boilerplate**: JWT auth patterns included
+-  **Advanced Package Options**: Optional extras like WebSocket, Redis, Socket.IO
+-  **Beautiful CLI Experience**: Interactive prompts with colorful feedback
+-  **Smart Configuration**: Auto-generates .env files and project structure
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
@@ -39,7 +39,7 @@ Follow the interactive prompts to:
 2. Name your project
 3. Select additional packages (optional)
 
-## 📚 Available Stacks
+##  Available Stacks
 
 | Stack | Description | Includes |
 |-------|-------------|----------|
@@ -48,7 +48,7 @@ Follow the interactive prompts to:
 | **Express + Prisma** | Node.js API with Prisma ORM | Express, Prisma, JWT Auth, CORS, Helmet |
 | **Express + Mongoose** | Node.js API with MongoDB | Express, Mongoose, JWT Auth, CORS, Helmet |
 
-## 🛠️ CLI Parameters
+##  CLI Parameters
 
 ### Core Flags
 
@@ -87,7 +87,7 @@ npx stackforge-cli -a
 npx stackforge-cli -v -a
 ```
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ### React Projects
 ```
@@ -118,31 +118,31 @@ my-express-app/
 └── package.json
 ```
 
-## 🎯 What You Get Out of the Box
+##  What You Get Out of the Box
 
 ### Frontend (React)
-- ⚡ **Vite** for lightning-fast development
-- 🎨 **Tailwind CSS** with custom configuration
-- 🧭 **React Router** with example routes
-- 🔧 **ESLint** with sensible defaults
-- 📱 **Responsive** design patterns
-- 🎪 **Component** library structure
+-  **Vite** for lightning-fast development
+-  **Tailwind CSS** with custom configuration
+-  **React Router** with example routes
+-  **ESLint** with sensible defaults
+-  **Responsive** design patterns
+-  **Component** library structure
 
 ### Backend (Express)
-- 🔐 **JWT Authentication** with refresh tokens
-- 🛡️ **Security Middleware** (Helmet, CORS)
-- 📊 **Database Models** and schemas
-- 🛣️ **RESTful API** routes structure
-- ⚠️ **Error Handling** middleware
-- 📝 **Request Validation** setup
+-  **JWT Authentication** with refresh tokens
+-  **Security Middleware** (Helmet, CORS)
+-  **Database Models** and schemas
+-  **RESTful API** routes structure
+-  **Error Handling** middleware
+-  **Request Validation** setup
 
 ### Environment Setup
-- 🔑 **Environment Variables** auto-configured
-- 📋 **.gitignore** with sensible defaults
-- 📦 **Package Scripts** for development and production
-- 🔄 **Development Workflow** ready
+-  **Environment Variables** auto-configured
+-  **.gitignore** with sensible defaults
+-  **Package Scripts** for development and production
+-  **Development Workflow** ready
 
-## 🚀 Getting Started After Installation
+##  Getting Started After Installation
 
 ### React Projects
 ```bash
@@ -164,7 +164,7 @@ npm run dev
 ```
 Your API will be running on `http://localhost:8000`
 
-## 🎨 Customization
+##  Customization
 
 All projects come with sensible defaults but are fully customizable:
 
@@ -173,7 +173,7 @@ All projects come with sensible defaults but are fully customizable:
 - **Vite**: Configure build options in `vite.config.js`
 - **Database**: Update Prisma schema or Mongoose models as needed
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! If you'd like to add new stacks or improve existing ones:
 
@@ -181,11 +181,11 @@ We welcome contributions! If you'd like to add new stacks or improve existing on
 2. Create your feature branch
 3. Submit a pull request
 
-## 📄 License
+##  License
 
 MIT License - feel free to use this in your projects!
 
-## 🙋‍♂️ Support
+##  Support
 
 Having issues? Found a bug? 
 - Open an issue on [GitHub](https://github.com/RajanDhamala/stackforge-cli)
@@ -196,4 +196,4 @@ Having issues? Found a bug?
 
 **Happy coding! 🎉** 
 
-*Built with ❤️ to save developers time and get you building faster.*
+*Built with  to save developers time and get you building faster.*
